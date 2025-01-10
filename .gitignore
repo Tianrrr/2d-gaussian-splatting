@@ -12,3 +12,4 @@ data
 eval
 *.npz
 **/tmp
+/GS_Monitor
